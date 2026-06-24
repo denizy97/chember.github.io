@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "75F5TLLPVH.com.chember.Chember"
+        ],
+        "components": [
+          {
+            "/": "/app/*"
+          }
+        ]
+      }
+    ]
+  }
+}
